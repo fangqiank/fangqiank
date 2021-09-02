@@ -7,9 +7,11 @@ Live to learn and learn to live
 ### **Technology Stack:**
 
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"></code>
 
 
 ### Github
