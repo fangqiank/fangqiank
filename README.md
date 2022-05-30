@@ -14,6 +14,7 @@ Live to learn and learn to live
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/docker.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg"></code>
 
